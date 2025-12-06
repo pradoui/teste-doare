@@ -31,12 +31,12 @@ def get_dados_doare():
         b.primeiro_nome_tratado AS primeiro_nome,
         b.data_de_registro,
         b.status,
-        t.Descrição AS tipo_doacao,
+        t."Descrição" AS tipo_doacao,
         b.canal_tratado AS canal,
         d.valor_bruto AS valor
     FROM tabela_base b
     LEFT JOIN tabela_dados_doacao d ON b.email = d.email
-    LEFT JOIN tabela_tipo t ON d.CD_Tipo = t.CD_Tipo
+    LEFT JOIN tabela_tipo t ON d."CD_Tipo" = t."CD_Tipo"
     """
 
     try:
