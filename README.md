@@ -38,6 +38,7 @@ O projeto foi desenvolvido utilizando uma arquitetura de microsserviços orienta
 
 2. Dados JSON retornados da API
 <img width="1117" height="519" alt="image" src="https://github.com/user-attachments/assets/5a012376-b77c-4062-8b75-c3d849dac29f" />
+<img width="1905" height="1008" alt="image" src="https://github.com/user-attachments/assets/95d499df-c036-47d4-93c1-861dce77fe9a" />
 
 3. Dashboard Power BI
 <img width="1349" height="782" alt="image" src="https://github.com/user-attachments/assets/94a81d09-5805-4e70-81f4-f645f3bf6826" />
