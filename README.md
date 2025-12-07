@@ -30,3 +30,15 @@ O projeto foi desenvolvido utilizando uma arquitetura de microsserviços orienta
 2.  Instale as dependências: `pip install -r requirements.txt`
 3.  Configure o `.env` com as credenciais do banco.
 4.  Execute: `uvicorn api:app --reload`
+
+## Prints
+
+1. Banco salvo no Supabase
+<img width="821" height="727" alt="image" src="https://github.com/user-attachments/assets/ae2ae32b-a3b6-4a57-ab9a-2af86c4fb135" />
+
+2. Dados JSON retornados da API
+<img width="1117" height="519" alt="image" src="https://github.com/user-attachments/assets/5a012376-b77c-4062-8b75-c3d849dac29f" />
+
+3. Dashboard Power BI
+<img width="1349" height="782" alt="image" src="https://github.com/user-attachments/assets/94a81d09-5805-4e70-81f4-f645f3bf6826" />
+<img width="1309" height="445" alt="image" src="https://github.com/user-attachments/assets/2afb18d0-81e2-41de-992d-8ec63d3c5f41" />
