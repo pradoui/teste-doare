@@ -12,19 +12,19 @@ O projeto foi desenvolvido utilizando uma arquitetura de microsserviços orienta
 3.  **Backend API:** FastAPI (Hospedado no Render) servindo dados tratados em JSON.
 4.  **Frontend/BI:** Power BI consumindo a API em tempo real.
 
-## 🛠 Tecnologias
+## Tecnologias
 
 * **Linguagem:** Python 3.10+
 * **Libs:** Pandas, SQLAlchemy, FastAPI, Uvicorn.
 * **Infra:** Supabase (PostgreSQL), Render (Cloud PaaS).
 * **Visualização:** Power BI.
 
-## 🔒 Segurança
+## Segurança
 
 * Credenciais de banco de dados protegidas via Variáveis de Ambiente (.env).
 * Conexão via Transaction Pooler (Porta 6543) para otimização de recursos.
 
-## 📊 Como rodar localmente
+## Como rodar localmente
 
 1.  Clone o repositório.
 2.  Instale as dependências: `pip install -r requirements.txt`
